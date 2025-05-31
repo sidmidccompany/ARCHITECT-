@@ -1,0 +1,7 @@
+<odoo>
+    <record id="model_architect_project_access" model="ir.module.category">
+        <field name="name">Architect</field>
+        <field name="description">Architectural Project Permissions</field>
+        <field name="module">avf_architect</field>
+    </record>
+</odoo>
