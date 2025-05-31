@@ -1,0 +1,6 @@
+<odoo>
+    <record id="demo_architect_project" model="architect.project">
+        <field name="name">Demo Project</field>
+        <field name="description">Example project for demonstration.</field>
+    </record>
+</odoo>
